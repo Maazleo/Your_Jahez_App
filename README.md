@@ -11,10 +11,7 @@
   <p><strong>An educational Flutter app raising awareness about anti-dowry laws in Pakistan through an interactive calculator that reveals the legal consequences of dowry practices.</strong></p>
 </div>
 
-<div align="center">
-  <img src="assets/images/app_preview.png" alt="App Preview" width="600" height="auto"/>
-  <p><i>Note: Replace with actual app screenshot when available</i></p>
-</div>
+
 
 ## 📋 Table of Contents
 
