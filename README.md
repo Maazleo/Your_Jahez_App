@@ -126,5 +126,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ for awareness against dowry practices</p>
-  <p>© 2025 KnowYourJahez</p>
+  <p>©Maaz 2025 KnowYourJahez</p>
 </div>
